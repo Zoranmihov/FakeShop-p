@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "615e15c475e1651ba87dce99"
+  },
+  "userid": "61307dc5fcd0150f00b0b66b",
+  "name": "Abc",
+  "email": "abc@hotmail.com",
+  "orderItems": [
+    {
+      "name": "Dummy Product 1",
+      "quantity": 1,
+      "price": 80,
+      "_id": "611abed096a4f882115b2395"
+    }
+  ],
+  "shippingAdress": {
+    "address": "Fake",
+    "city": "FakeCity",
+    "country": "Germany",
+    "postalCode": 12345
+  },
+  "orderAmount": 80,
+  "transactionId": "card_1JhhiFELOgaxNHUmHNXLVPmo",
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2021-10-06T21:31:48.618Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-08T20:12:41.192Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615e1a8002ffc512547cbdf5"
+  },
+  "userid": "61307dc5fcd0150f00b0b66b",
+  "name": "Abc",
+  "email": "abc@hotmail.com",
+  "orderItems": [
+    {
+      "name": "Dummy Product 1",
+      "quantity": 2,
+      "price": 80,
+      "_id": "611abed096a4f882115b2395"
+    }
+  ],
+  "shippingAdress": {
+    "address": "Fake",
+    "city": "FakeCity",
+    "country": "Germany",
+    "postalCode": 12345
+  },
+  "orderAmount": 160,
+  "transactionId": "card_1Jhi1nELOgaxNHUmC7bk8yBk",
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2021-10-06T21:52:00.841Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T21:52:00.841Z"
+  },
+  "__v": 0
+}]

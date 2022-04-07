@@ -1,0 +1,152 @@
+* {
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon {
+  cursor: pointer !important;
+  width: 14px !important;
+  height: 16px !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+a {
+  text-decoration: none !important;
+}
+
+.navbar {
+  background-color: rgb(18, 16, 27) !important;
+  color: whitesmoke !important;
+}
+
+.nav-link {
+  color: whitesmoke !important;
+}
+.navbar-brand {
+  color: whitesmoke !important;
+}
+
+h1 {
+  color: black !important;
+  font-size: 2em !important;
+}
+.img-fluid {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: scale-down !important;
+}
+.single-product-img {
+  height: 300px !important;
+}
+.btn-costum {
+  margin-top: 1% !important;
+  margin-right: 1% !important;
+}
+
+input {
+  box-shadow: none !important;
+  margin-bottom: 1% !important;
+  border: 1px solid black !important;
+}
+
+.submit-btn {
+  font-size: 1.5em !important;
+  padding: 5px 20px 5px 20px !important;
+}
+
+#over-flow {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+  min-width: 5rem !important;
+}
+
+.error-msg {
+  color: black !important;
+}
+
+#register-btn {
+  color: black !important;
+  font-size: 1.5em !important;
+  font-weight: bold !important;
+}
+
+.filter-nav {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.filter {
+  width: 100% !important;
+  padding: 6px 12px !important;
+}
+.filter-search {
+  padding: 6px 12px !important;
+  width: 90% !important;
+}
+
+.tr-link {
+  cursor: pointer !important;
+}
+
+.adminpanel {
+  background-color: rgba(18, 16, 27, 0.7) !important;
+  display: flex !important;
+  color: white;
+  justify-content: space-evenly !important;
+  font-size: 1.2rem !important;
+}
+
+.adminpanel li {
+  list-style-type: none !important;
+  margin: 5px !important;
+  display: inline !important;
+  padding: 0px 5px 0px 5px !important;
+}
+.adminlink {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.adminpanel li :hover {
+  text-decoration: underline !important;
+}
+
+#select-category {
+  border: 1px solid black !important;
+}
+
+.edit-product {
+  text-decoration: none !important;
+}
+
+.drop-icon {
+  color: white !important;
+  size: 10px !important;
+}
+
+.user-btn {
+  color: white !important;
+  background-color: rgb(18, 16, 27) !important;
+  border: none !important;
+}
+
+.name-search {
+  padding: 6px 12px !important;
+  border-radius: none !important;
+}
+
+p {
+  font-size: 1.3rem !important;
+  margin-top: 3px !important;
+}

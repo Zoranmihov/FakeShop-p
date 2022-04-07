@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "611abed096a4f882115b2396"
+  },
+  "rating": 3,
+  "reviews": [],
+  "price": 23,
+  "countInStock": 17,
+  "name": "Dummy Product 2",
+  "category": "mobiles",
+  "image": "https://www.target.com.au/medias/static_content/product/images/full/14/52/A1601452.jpg?impolicy=product_portrait_hero",
+  "description": "Dummy Product 2 description"
+},{
+  "_id": {
+    "$oid": "611abed096a4f882115b2399"
+  },
+  "rating": 5,
+  "reviews": [],
+  "price": 50,
+  "countInStock": 80,
+  "name": "Dummy Product 5",
+  "category": "accesories",
+  "image": "https://topmeaning.com/english/images/img/EN/a/accessory.jpg",
+  "description": "Dummy Product 5 description"
+},{
+  "_id": {
+    "$oid": "611abed096a4f882115b2395"
+  },
+  "rating": 4,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "6150cf07634b4f185cb57f0a"
+      },
+      "name": "abc",
+      "userid": {
+        "$oid": "61307dc5fcd0150f00b0b66b"
+      },
+      "rating": 3,
+      "comment": "It just works 2.0"
+    }
+  ],
+  "price": 80,
+  "countInStock": 30,
+  "name": "Dummy Product 1",
+  "category": "electronics",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Electronic_circuit.jpg",
+  "description": "Dummy Product 1 description",
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "611abed096a4f882115b2398"
+  },
+  "rating": 1,
+  "reviews": [],
+  "price": 5,
+  "countInStock": 130,
+  "name": "Dummy Product 4",
+  "category": "accesories",
+  "image": "https://rukminim1.flixcart.com/image/416/416/kdt50nk0/docking-station/z/d/s/qz-ad01-quantumzero-original-imafumqxqhnmf6qu.jpeg?q=70",
+  "description": "Dummy Product 4 description"
+},{
+  "_id": {
+    "$oid": "611abed096a4f882115b2397"
+  },
+  "rating": 2,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "6150d6c14b959919180d9044"
+      },
+      "name": "abc",
+      "userid": {
+        "$oid": "61307dc5fcd0150f00b0b66b"
+      },
+      "rating": 2,
+      "comment": "Works"
+    }
+  ],
+  "price": 142,
+  "countInStock": 28,
+  "name": "Dummy Product 3",
+  "category": "electronics",
+  "image": "https://www.reichelt.com/magazin/en/snapshot/1020x0/wp-content/uploads/2017/01/multimeter-1.jpg",
+  "description": "Dummy Product 3 description",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "615e073530f83619a0af4d7d"
+  },
+  "rating": 0,
+  "name": "Dummy product 6",
+  "price": 80,
+  "countInStock": 70,
+  "image": "https://mobile.1und1.de/static/700/b62eb9e66566036708ed3f218a349/webapp/1d06aeda4fbd375c684b880d8acf5f02-iphone11-couple-purple.png",
+  "description": "Dummy product 6 description",
+  "category": "mobiles",
+  "reviews": [],
+  "__v": 0
+}]
