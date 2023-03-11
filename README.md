@@ -6,6 +6,3 @@ A MERN stack E-Commerce website meant for small businesses. Having an internet p
 
 This project dosen't use email authentication so you can enter a fake email in the registration form, or if you would preffer to see the the site from the owner's perspective you can use this account email admin@gmail.com password FakePassword
 
-## Demo:
-
-https://zoran-fake-shop.herokuapp.com/
